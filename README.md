@@ -1,5 +1,6 @@
 # 📑 Sistema de Gerenciamento de Editais e Propostas
 
+
 ### Descrição
 Este o repositório para o projeto do Hands On que consiste em um sistema de gerenciamento de editais e propostas desenvolvido com Java Spring Boot, com o objetivo de facilitar a administração de editais e a submissão de propostas por pesquisadores do SIGFAPAC. A aplicação permite que coordenadores criem editais, configurem campos personalizados para cada edital e que pesquisadores submetam suas propostas de forma prática e eficiente.
 
